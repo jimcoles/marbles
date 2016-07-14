@@ -11,6 +11,10 @@
 
     <modules>
         <module>marbles-app</module>
+        <module>marbles-rest</module>
+        <module>marbles-web</module>
+        <module>marbles-core</module>
+        <module>marbles-plugins</module>
     </modules>
 
 

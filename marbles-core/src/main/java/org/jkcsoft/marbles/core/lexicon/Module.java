@@ -1,4 +1,4 @@
-package org.jkcsoft.marbles.plugapi.lexicon;
+package org.jkcsoft.marbles.core.lexicon;
 
 /**
  * A Modules is the central thing being managed by this app.
